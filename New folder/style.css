@@ -1,0 +1,12 @@
+.navbar{
+  border-radius: 0;
+  margin-bottom: 0;
+}
+footer{
+  background: #C0C0C0;
+
+}
+footer h3{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
